@@ -5,3 +5,50 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+
+Product.create([
+
+    {
+        name: "Quiet Comfort 35",
+        brand: "Bose",
+        price: "$245.45",
+        description: "slkmslkfmalskmfla;skmfdl;askmfdl;askm"
+    },
+    {
+        name: "Quiet Comfort 35",
+        brand: "Bose",
+        price: "$245.45",
+        description: "slkmslkfmalskmfla;skmfdl;askmfdl;askm"
+    },
+    {
+        name: "Quiet Comfort 35",
+        brand: "Bose",
+        price: "$245.45",
+        description: "slkmslkfmalskmfla;skmfdl;askmfdl;askm"
+    },
+    {
+        name: "Quiet Comfort 35",
+        brand: "Bose",
+        price: "$245.45",
+        description: "slkmslkfmalskmfla;skmfdl;askmfdl;askm"
+    },
+    {
+        name: "Quiet Comfort 35",
+        brand: "Bose",
+        price: "$245.45",
+        description: "slkmslkfmalskmfla;skmfdl;askmfdl;askm"
+    },
+    {
+        name: "Quiet Comfort 35",
+        brand: "Bose",
+        price: "$245.45",
+        description: "slkmslkfmalskmfla;skmfdl;askmfdl;askm"
+    },
+    {
+        name: "Quiet Comfort 35",
+        brand: "Bose",
+        price: "$245.45",
+        description: "slkmslkfmalskmfla;skmfdl;askmfdl;askm"
+    }
+])
